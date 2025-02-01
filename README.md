@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Akshat
 - 👀 I’m interested in 
-- 🌱 I’m currently learning NodeJs 
+- 🌱 I’m currently Working on .net core + React
+- js
 - 📫 Reach me at akshatt951@gmail.com
 - ⚡ Fun fact: Life is too short. Lets enjoy it.
 
